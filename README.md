@@ -1,2 +1,5 @@
 # hello-world
-This is my first repo
+
+Hi everyone
+
+Bright here, I like Python, Java and Flutter.
